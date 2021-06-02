@@ -7,7 +7,7 @@ project
 
 ## Objetivo
 ```bash
-# Recriar página de site, o mais parecido possível. Objetivo (Praticar)
+# Recriar página de um site, o mais parecido possível. Objetivo (Praticar)
 ```
 
 ## ♟️ Techs

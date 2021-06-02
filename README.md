@@ -5,7 +5,7 @@
 project
 ---
 
-## Objetivo
+## Objective
 ```bash
 # Recriar página de um site, o mais parecido possível. Objetivo (Praticar)
 ```

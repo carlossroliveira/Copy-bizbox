@@ -1,8 +1,7 @@
 <h1 align="center"> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Copy - Bizbox </h1>
 
 ---
-
-project
+![VE Project 41](https://user-images.githubusercontent.com/63623377/120558543-01782200-c3d6-11eb-8659-0bfa1c12055f.gif)
 ---
 
 ## Objective
